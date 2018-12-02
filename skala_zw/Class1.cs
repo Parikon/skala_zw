@@ -7,5 +7,6 @@ namespace skala_zw
 {
     public class Class1
     {
+
     }
 }
